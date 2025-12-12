@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+mlruns/
+mlflow.db
+.gemini/
+.env
+.DS_Store

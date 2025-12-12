@@ -47,4 +47,4 @@ python main.py --video "data/sample_squat.mp4" --exercise squat
 - `pose_detector.py`: MediaPipe wrapper.
 
 ## Documentation
-See `docs/REPORT.md` for detailed explanation of rules, logic, and challenges handling.
+See `docs/RULES.md` for detailed explanation of rules, logic, and challenges handling.

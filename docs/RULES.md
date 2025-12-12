@@ -1,4 +1,4 @@
-# AI Trainer Implementation Report
+# Exercise Rules & Logic
 
 ## Overview
 This system uses **Human Pose Estimation (PE)** to evaluate fitness exercises. We utilize **MediaPipe Pose** (BlazePose) for its real-time performance and 3D coordinate estimation.
